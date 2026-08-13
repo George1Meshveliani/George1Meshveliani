@@ -1,4 +1,4 @@
-👋 Hi, I’m @George1Meshveliani
+👋 Hi, I’m [@George1Meshveliani](https://obcp.online/georgemeshveliani)
 
 ![](https://komarev.com/ghpvc/?username=george1meshveliani&color=red)
 <!-- - 👀 I’m interested in ...
